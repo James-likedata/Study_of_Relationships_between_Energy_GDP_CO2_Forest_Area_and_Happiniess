@@ -1,0 +1,2 @@
+# Study_of_Relationships_between_Energy_GDP_CO2_Forest_Area_and_Happiniess
+As we all know energy is very important for economic development. It is the basis for GDP, but meanwhile energy consumption may cause CO2 emission. We also would like to study the Forest Area per capita, because trees are the main way to capture CO2 emission. Last but not least, we will study relationship between GDP and happiness indicator. 
